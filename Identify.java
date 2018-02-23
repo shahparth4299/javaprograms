@@ -1,4 +1,4 @@
-# javaprogram to Identify Network Class
+# Javaprogram to Identify Network Class
 import java.io.*;
 import java.util.*;
 class Identify{
